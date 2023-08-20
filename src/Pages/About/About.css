@@ -1,0 +1,22 @@
+.ourAbout {
+    max-width: 950px;
+    margin: auto;
+}
+
+.aboutLwPrt h1 {
+    text-align: center;
+}
+
+.ourStory h1 {
+    text-align: center;
+}
+
+.ourPhilosophy h1 {
+    text-align: center;
+}
+
+.ourPhilosophyCard {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}

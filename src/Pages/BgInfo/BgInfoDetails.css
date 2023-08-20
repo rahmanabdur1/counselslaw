@@ -1,0 +1,14 @@
+.bgInfo{
+    margin: auto;
+    max-width: 1000px;
+}
+
+.bgInfoDetails h1{
+    text-align: center;
+}
+
+.bgInfoDetailsTitle{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}

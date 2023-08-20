@@ -1,0 +1,21 @@
+.clientInfo {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin: auto;
+    max-width: 1000px;
+}
+
+.clientInfoDetails h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.clientFeedbackInfo {
+    border: 2px solid red;
+}
+
+.clientInfoFateback {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
